@@ -5,7 +5,7 @@ This program applies multiple formatting styles (bold, italic, underline) to ind
 
 ---
 
-## 📌 Features
+## Features
 
 - Apply **Bold**, **Italic**, and **Underline** styles to words.
 - Style combinations using **Chain of Responsibility**.
@@ -14,7 +14,7 @@ This program applies multiple formatting styles (bold, italic, underline) to ind
 
 ---
 
-## 🧠 Design Patterns Used
+## Design Patterns Used
 
 | Pattern                  | Role in Project |
 |--------------------------|-----------------|
