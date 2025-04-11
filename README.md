@@ -26,19 +26,28 @@ This program applies multiple formatting styles (bold, italic, underline) to ind
 ## 🗂️ Project Structure
 
 ```
-wordprocessor/
-│
-├── Main.java
-├── Word.java
-├── WordType.java
-├── WordStyle.java
-├── FlyweightFactory.java
-│
-└── formatters/
-    ├── TextFormatter.java
-    ├── BoldFormatter.java
-    ├── ItalicFormatter.java
-    └── UnderlineFormatter.java
+└───wordprocessor
+    │   FlyweightFactory.java
+    │   FlyweightFactory.class
+    │   Main.java
+    │   Main.class
+    │   Word.java
+    │   Word.class
+    │   WordStyle.java
+    │   WordStyle.class
+    │   WordType.java
+    │   WordType.class
+    │
+    └───formatters
+        │   BoldFormatter.java
+        │   BoldFormatter.class
+        │   ItalicFormatter.java
+        │   ItalicFormatter.class
+        │   TextFormatter.java
+        │   TextFormatter.class
+        │   UnderlineFormatter.java
+        │   UnderlineFormatter.class
+
 ```
 
 ---
