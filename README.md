@@ -66,6 +66,23 @@ java wordprocessor.Main
 
 ---
 
+## Output Example (CMD)
+
+```
+Formatted output (run): <b>run</b>
+Formatted output (walk): <i>walk</i>
+Formatted output (jump): <u>jump</u>
+Formatted output (climb): <i><b>climb</b></i>
+Formatted output (slide): <u><b>slide</b></u>
+Formatted output (crawl): <u><i>crawl</i></u>
+Formatted output (sprint): <u><i><b>sprint</b></i></u>
+```
+
+---
+
+
+---
+
 ## 👩‍💻 Author
 
 **Amritaa K**   
